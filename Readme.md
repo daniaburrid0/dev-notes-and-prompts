@@ -4,21 +4,23 @@ Este repositorio almacena documentos, notas, prompts y scripts que son útiles p
 
 ## Estructura del Repositorio
 
-- 
+-
 
 notas
 
 : Contiene documentos y notas sobre proyectos y herramientas.
-  - MarkdownMaster_CLI_Product_Requirements_Document.md: Documento de requisitos para la herramienta de línea de comandos MarkdownMaster.
-- 
+
+- MarkdownMaster_CLI_Product_Requirements_Document.md: Documento de requisitos para la herramienta de línea de comandos MarkdownMaster.
+-
 
 prompt
 
 : Incluye prompts y ejemplos para asistentes de desarrollo.
-  - python/: Prompts relacionados con Python.
-    - cli-markdown-expert-prompt.md: Prompt para un asistente experto en desarrollo de aplicaciones CLI en Python.
-    - prompt-examples.md: Ejemplos de prompts para asistentes especializados en diferentes áreas de Python.
-- 
+
+- python/: Prompts relacionados con Python.
+  - cli-markdown-expert-prompt.md: Prompt para un asistente experto en desarrollo de aplicaciones CLI en Python.
+  - prompt-examples.md: Ejemplos de prompts para asistentes especializados en diferentes áreas de Python.
+-
 
 Readme.md
 
